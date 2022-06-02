@@ -1,0 +1,22 @@
+{
+  "name": "jester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lapratomo24/jester.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lapratomo24/jester/issues"
+  },
+  "homepage": "https://github.com/Lapratomo24/jester#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
